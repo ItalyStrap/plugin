@@ -1,0 +1,13 @@
+{
+    "name": "italystrap/plugin",
+    "description": "WordPress Plugin Starter Boilerplate",
+    "type": "wordpress-plugin",
+    "license": "GPL2.0",
+    "authors": [
+        {
+            "name": "overclokk",
+            "email": "info@overclokk.net"
+        }
+    ],
+    "require": {}
+}
